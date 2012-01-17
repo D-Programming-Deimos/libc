@@ -1,0 +1,3 @@
+BUILD
+-----
+$ ldc2 -shared deimos/sys/epoll.d  deimos/sys/signalfd.d
